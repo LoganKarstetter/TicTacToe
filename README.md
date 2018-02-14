@@ -1,2 +1,2 @@
 # TicTacToe
-A TicTacToe game I wrote around September 2016 and later revised in January of 2018. It is written in Java and features a graphical user interface built in Swing. The user plays against the computer on one of three difficulty levels. 
+A TicTacToe game I made in Java in September 2016 and later revised in January 2018. The game features an extensive graphical user interface built using the Java Swing GUI widget toolkit. Once playing there are three different difficulties to choose from. The level of the difficulty determines the priorities of the computer when playing its turns (I recommend hard mode for a challenge). The first to get three in a row wins! And yes, there will be ties aplenty.
